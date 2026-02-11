@@ -24,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PakshalShahsikantJain&" alt="PakshalShahsikantJain" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PakshalShahsikantJain&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
