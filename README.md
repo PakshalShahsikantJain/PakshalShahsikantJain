@@ -2,8 +2,6 @@
 
 ### A passionate Software developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PakshalShahsikantJain&label=Profile views&color=0e75b6&style=flat" alt="PakshalShahsikantJain" /> </p>
-
 - 🔭 I'm currently working on **a MEAN Stack Project with Ionic Capacitor**
 
 - 🌱 I'm currently learning **Linux System Programming**
