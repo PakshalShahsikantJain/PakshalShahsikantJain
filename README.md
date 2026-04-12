@@ -17,7 +17,7 @@
 
 ## About Me
 
-Software developer with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Design**, and **Systems Programming**. Proficient in Linux internals, cross-platform mobile development via **Ionic + Capacitor**, and database integration across relational (MySQL) and NoSQL (MongoDB) stacks.
+Software developer with a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Design**, and **System Programming**. Proficient in Linux internals, cross-platform mobile development via **Ionic + Capacitor**, and database integration across relational (MySQL) and NoSQL (MongoDB) stacks.
 
 Currently deepening expertise in **Linux System Programming** while actively applying **Machine Learning**, **Deep Learning**, and **AI** concepts to real-world engineering challenges. Driven by a passion for writing clean, secure, and performance-optimized software across the full stack.
 
