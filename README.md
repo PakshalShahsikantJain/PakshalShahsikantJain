@@ -2,7 +2,7 @@
 
 # Pakshal Shashikant Jain
 
-**Software Developer · Systems Programmer · Full-Stack Engineer**
+**Software Developer · System Programmer · Full-Stack Engineer**
 
 *Building secure, performant, and cross-platform software solutions*
 
