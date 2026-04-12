@@ -2,7 +2,7 @@
 
 # Pakshal Shashikant Jain
 
-**Software Developer · System Programmer · Full-Stack Engineer**
+**Software Developer · Systems Programmer · Full-Stack Engineer**
 
 *Building secure, performant, and cross-platform software solutions*
 
@@ -10,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pakshal%20Jain-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pakshal-jain-5874011ab)
 [![Instagram](https://img.shields.io/badge/Instagram-pakshal__programmer-E4405F?style=flat-square&logo=instagram)](https://instagram.com/pakshal_programmer)
 [![Email](https://img.shields.io/badge/Email-pakshal1256%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pakshal1256@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=PakshalShahsikantJain&style=flat-square&color=539bf5&label=Profile+Views)
 
 </div>
 
@@ -87,15 +89,51 @@ Currently deepening expertise in **Linux System Programming** while actively app
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PakshalShahsikantJain&hide_border=true&border_radius=8" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=PakshalShahsikantJain&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakshalShahsikantJain&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" height="180" alt="Top Languages"/>
 
-<br/><br/>
+</div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PakshalShahsikantJain&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PakshalShahsikantJain&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PakshalShahsikantJain&bg_color=24292f&color=adbac7&line=539bf5&point=539bf5&area=true&area_color=539bf5&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Achievement Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=PakshalShahsikantJain&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## GitHub Skyline — 3D Contribution Map
+
+<div align="center">
+
+> 🌐 View your 3D contribution graph at [skyline.github.com/PakshalShahsikantJain](https://skyline.github.com/PakshalShahsikantJain/2024)
+
+[![Skyline Preview](https://img.shields.io/badge/GitHub%20Skyline-View%203D%20Graph-539bf5?style=for-the-badge&logo=github)](https://skyline.github.com/PakshalShahsikantJain/2024)
 
 </div>
 
@@ -104,5 +142,9 @@ Currently deepening expertise in **Linux System Programming** while actively app
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=80&section=footer)
 
 </div>
